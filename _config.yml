@@ -1,0 +1,28 @@
+name: TestByte
+favicon: null
+layout_spectrum: 0.49550378043204546
+typography_spectrum: 0.3127222827170044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.35419985209591687
+  lightness: 0.14646897674538195
+  saturation: 0.2501003644429147
+  rhythmicContrast: 0.9637843288946897
+purpose: []
